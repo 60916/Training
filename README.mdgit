@@ -1,0 +1,2 @@
+"# Training"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/60916/Training.gitgit push -u origin main
+"# Training"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/60916/Training.gitgit push -u origin main
